@@ -22,22 +22,13 @@ All transformations are based on the model created within the Modelio tool, usin
    ```sh
    git clone https://github.com/yourusername/DDD-Transform.git
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd DDD-Transform
-   ```
-3. Install dependencies (if any):
-   ```sh
-   ./install-dependencies.sh
-   ```
-
 ## Usage
 1. Open Modelio and create your model using DDD stereotypes.
+![Overview Diagram](images/overview-diagram.png)
 2. Ensure your model is saved and the elements you want to transform are selected.
+![Overview Diagram](images/overview-diagram.png)
 3. Run the transformation command:
-   ```sh
-   ./run-transformation.sh
-   ```
+![Overview Diagram](images/overview-diagram.png)
 4. The generated Java code will be located in the `output` directory.
 
 ## Contributing
