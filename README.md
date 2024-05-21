@@ -16,22 +16,26 @@ All transformations are based on the model created within the Modelio tool, usin
 ## Prerequisites
 - Java 
 - Modelio (version 5.4)
-- DDD profile
+- DDD profile [install here](install here)
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/DDD-Transform.git
+   git clone https://github.com/Luiz-Cunha/DDD-Transform.git
    ```
+2. Generate the Transformation Module:
+![Overview Diagram](images/right-click-on-pomxml.png)
 ## Usage
 1. Import 'DDD profile' to use the stereotypes.
+![Overview Diagram](images/import-the-ddd-profile.png)
+2. Import the module created in the Installation step:
 ![Overview Diagram](images/overview-diagram.png)
-2. Open Modelio and create your model using DDD stereotypes.
+3. Open Modelio and create your model using DDD stereotypes:
 ![Overview Diagram](images/overview-diagram.png)
-3. Ensure your model is saved and the elements you want to transform are selected.
+4. Ensure your model is correct based on DDD paradigm:
 ![Overview Diagram](images/overview-diagram.png)
-4. Run the transformation command:
+5. Run the transformation command:
 ![Overview Diagram](images/overview-diagram.png)
-5. The generated Java code will be located in the `output` directory.
+6. The generated Java code will be located in the `output` directory.
 ![Overview Diagram](images/overview-diagram.png)
 
 ## Contributing
