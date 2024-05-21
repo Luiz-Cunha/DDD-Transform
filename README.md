@@ -23,13 +23,15 @@ All transformations are based on the model created within the Modelio tool, usin
    git clone https://github.com/yourusername/DDD-Transform.git
    ```
 ## Usage
-1. Open Modelio and create your model using DDD stereotypes.
+1. Import 'DDD profile' to use the stereotypes.
 ![Overview Diagram](images/overview-diagram.png)
-2. Ensure your model is saved and the elements you want to transform are selected.
+2. Open Modelio and create your model using DDD stereotypes.
 ![Overview Diagram](images/overview-diagram.png)
-3. Run the transformation command:
+3. Ensure your model is saved and the elements you want to transform are selected.
 ![Overview Diagram](images/overview-diagram.png)
-4. The generated Java code will be located in the `output` directory.
+4. Run the transformation command:
+![Overview Diagram](images/overview-diagram.png)
+5. The generated Java code will be located in the `output` directory.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
