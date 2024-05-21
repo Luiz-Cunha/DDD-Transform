@@ -32,6 +32,7 @@ All transformations are based on the model created within the Modelio tool, usin
 4. Run the transformation command:
 ![Overview Diagram](images/overview-diagram.png)
 5. The generated Java code will be located in the `output` directory.
+![Overview Diagram](images/overview-diagram.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
