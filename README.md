@@ -16,14 +16,16 @@ All transformations are based on the model created within the Modelio tool, usin
 ## Prerequisites
 - Java 
 - Modelio (version 5.4)
-- DDD profile [install here](install here)
+- DDD profile 
 ## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/Luiz-Cunha/DDD-Transform.git
    ```
 2. Generate the Transformation Module:
-![Overview Diagram](images/right-click-on-pomxml.png)
+<div style="text-align: center;">
+  <img src="images/right-click-on-pomxml.png" alt="Overview Diagram" style="width: 600px; height: auto;">
+</div>
 ## Usage
 1. Import 'DDD profile' to use the stereotypes.
 ![Overview Diagram](images/import-the-ddd-profile.png)
