@@ -16,7 +16,7 @@ All transformations are based on the model created within the Modelio tool, usin
 ## Prerequisites
 - Java 
 - Modelio (version 5.4)
-- DDD profile [Download DDD profile](URL)
+- DDD profile [Download DDD profile](https://github.com/SeelabFhdo/ddmm-uml-profile)
 ## Installation
 1. Clone the repository:
    ```sh
