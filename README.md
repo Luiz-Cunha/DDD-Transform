@@ -26,16 +26,29 @@ All transformations are based on the model created within the Modelio tool, usin
 <div style="text-align: center;">
   <img src="images/right-click-on-pomxml.png" alt="Overview Diagram" style="width: 600px; height: auto;">
 </div>
+
 ## Usage
 1. Import 'DDD profile' to use the stereotypes.
-![Overview Diagram](images/import-the-ddd-profile.png)
-2. Import the module created in the Installation, following steps (1- add to the catalog of modules,2- from the catalog, insert the module into the project):
-![Overview Diagram](images/Importing-module.png)
+<div style="text-align: center;">
+  <img src="images/import-the-ddd-profile.png" alt="Overview Diagram" style="width: 600px; height: auto;">
+</div>
+
+2. Import the module created in the Installation, following steps (1- add to the catalog of modules,2- from the catalog, insert the module into the project), also add the module 'Java Designer' into the project with the step 2:
+<div style="text-align: center;">
+  <img src="images/Importing-module.png" alt="Overview Diagram" style="width: 300px; height: auto;">
+</div>
+
 3. Open Modelio and create your model using DDD stereotypes:
-![Overview Diagram](images/model-with-ddd.png)
+<div style="text-align: center;">
+  <img src="images/model-with-ddd.png" alt="Overview Diagram" style="width: 600px; height: auto;">
+</div>
+
 4. Ensure your model is correct based on DDD paradigm:
 5. Run the transformation command:
-![Overview Diagram](images/run-transformation.png)
+<div style="text-align: center;">
+  <img src="images/run-transformation.png" alt="Overview Diagram" style="width: 600px; height: auto;">
+</div>
+
 6. The generated Java code will be located in the `output` directory.
 
 ## Contributing
