@@ -27,16 +27,14 @@ All transformations are based on the model created within the Modelio tool, usin
 ## Usage
 1. Import 'DDD profile' to use the stereotypes.
 ![Overview Diagram](images/import-the-ddd-profile.png)
-2. Import the module created in the Installation step:
-![Overview Diagram](images/overview-diagram.png)
+2. Import the module created in the Installation, following steps (1- add to the catalog of modules,2- from the catalog, insert the module into the project):
+![Overview Diagram](images/Importing-module.png)
 3. Open Modelio and create your model using DDD stereotypes:
-![Overview Diagram](images/overview-diagram.png)
+![Overview Diagram](images/model-with-ddd.png)
 4. Ensure your model is correct based on DDD paradigm:
-![Overview Diagram](images/overview-diagram.png)
 5. Run the transformation command:
-![Overview Diagram](images/overview-diagram.png)
+![Overview Diagram](images/run-transformation.png)
 6. The generated Java code will be located in the `output` directory.
-![Overview Diagram](images/overview-diagram.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
