@@ -16,7 +16,7 @@ All transformations are based on the model created within the Modelio tool, usin
 ## Prerequisites
 - Java 
 - Modelio (version 5.4)
-- DDD profile 
+- DDD profile [Download DDD profile](URL)
 ## Installation
 1. Clone the repository:
    ```sh
