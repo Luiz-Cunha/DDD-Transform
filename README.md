@@ -48,7 +48,3 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this template to better fit your project's specifics.
